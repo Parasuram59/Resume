@@ -1,0 +1,16 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+<title>Testing HTML</title>
+</head>
+<body>
+
+<h1>Testing Requirements</h1>
+
+<p>My first paragraph.</p>
+
+<h4>Second Heading</h4>
+<p>Checking.....</p>
+
+</body>
+</html>
